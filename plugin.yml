@@ -3,7 +3,7 @@ main: PM\Loader
 author: Abosh
 version: 1.0.0
 description: Abosh becomes to animal
-api: 3.0.0
+api: 5.0.0
 
 permissions:
  morph.use.command:
